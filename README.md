@@ -2,7 +2,7 @@
 
 AzureImpy is the Imperial Success Guide Chatbot leveraging Azure web services, particularly **Azure AI Search** and **Azure OpenAI**. This implementation enhances the chatbot's capabilities by utilizing cloud-based services for efficient database hosting and searching.
 
-![AzureImpy Schematic](AzureImpy_diagram.png)
+![AzureImpy Schematic](AzureImpy_diagram.jpg)
 
 ## Table of Contents
 1. [Overview](#overview)
