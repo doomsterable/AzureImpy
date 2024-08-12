@@ -35,9 +35,9 @@ Right now we are using me and Steph's personal API keys due to Azure's OpenAI to
 
 1. Clone this repository
 2. Run the provided `.bat` (Windows) or `.sh` (Mac/Linux) file to set up environment variables
-3. Install required dependencies:
+3. Install required libraries:
    ```
-   pip install -r requirements.txt
+   pip install anthropic openai requests
    ```
 4. Run the script:
    ```
